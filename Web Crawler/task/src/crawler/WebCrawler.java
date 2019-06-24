@@ -15,6 +15,7 @@ public class WebCrawler extends JFrame {
         textArea.setText("HTML code?");
         textArea.setEnabled(false);
         add(textArea);
+        //
 
 
         setVisible(true);
